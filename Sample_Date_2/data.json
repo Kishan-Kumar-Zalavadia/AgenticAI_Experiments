@@ -1,0 +1,6 @@
+{
+  "name": "Kishan Kumar",
+  "project": "AI Agent Demo",
+  "completed": false,
+  "tasks": ["build function generator", "add memory", "test file reading"]
+}
